@@ -1,0 +1,3 @@
+.gradle/
+.idea/
+/spring-boot-app/build/
