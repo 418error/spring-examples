@@ -1,3 +1,4 @@
 rootProject.name = 'spring-examples'
-include 'spring-boot-app'
+include 'gs-spring-boot'
+include 'gs-relational-data-access'
 
