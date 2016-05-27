@@ -1,4 +1,5 @@
 rootProject.name = 'spring-examples'
 include 'gs-spring-boot'
 include 'gs-relational-data-access'
+include 'gs-messaging-rabbitmq'
 
